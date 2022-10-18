@@ -1,0 +1,24 @@
+a{
+   text-decoration: none;
+   color: unset;
+   
+}
+
+a:hover{
+    color: turquoise;
+    
+}
+
+/* table {
+    border:1px solid rgb(0, 0, 0);
+    
+  } */
+
+.main{
+    border: unset;
+    
+}
+
+hr{
+    border-color:turquoise;
+}
